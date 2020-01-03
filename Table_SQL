@@ -1,4 +1,4 @@
-CREATE TABLE table_name (
+CREATE TABLE alumnos (
     nombre varchar(50),
     apellidos varchar(50),
     codigo bigint,
