@@ -1,0 +1,6 @@
+CREATE TABLE table_name (
+    nombre varchar(50),
+    apellidos varchar(50),
+    codigo bigint,
+    id_chat bigint
+);
